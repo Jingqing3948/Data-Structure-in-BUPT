@@ -1,2 +1,2 @@
-# Data_Structure
+# Data-Structure-in-BUPT
 My sophomore student year in BUPT~
