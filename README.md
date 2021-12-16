@@ -7,7 +7,8 @@
 5. Hash Table
 6. Graph
 7. KMP
-those topics are very typical in learning Data Structures. I hope you can learn a lot from it and if any mistakes are found, please let me know and I'll correct them as fast as possible. 
+
+Those topics are very typical in learning Data Structures. I hope you can learn a lot from it and if any mistakes are found, please let me know and I'll correct them as fast as possible. 
 P.S:
 1. In the cpp file, my annotation are all Chinese.
 2. If there are any infringement content, please contact me and I'll adjust or delete them.
