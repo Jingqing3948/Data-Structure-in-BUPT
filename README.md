@@ -5,8 +5,9 @@
 3. Linklist
 4. Tree
 5. Hash Table
-6. Graph
-7. KMP
+6. Sort
+7. Graph
+8. KMP
 
 Those topics are very typical in learning Data Structures. I hope you can learn a lot from it and if any mistakes are found, please let me know and I'll correct them as fast as possible. 
 P.S:
