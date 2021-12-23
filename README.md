@@ -7,6 +7,7 @@
 5. Sort
 6. Graph
 7. KMP
+
 Those topics are very typical in learning Data Structures. I hope you can learn a lot from it and if any mistakes are found, please let me know and I'll correct them as fast as possible. 
 P.S:
 1. In the cpp file, my annotation are all Chinese.
